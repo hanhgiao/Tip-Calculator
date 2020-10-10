@@ -26,10 +26,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://j.gifs.com/lx3r0g.gif' title='Tip Calculator Video Walkthrough' width='' alt='Video Walkthrough' />
 
-## Notes
-
-Describe any challenges encountered while building the app.
-
 ## License
 
     Copyright [2020] [Hanh Giao]
